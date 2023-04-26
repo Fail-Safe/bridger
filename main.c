@@ -5,7 +5,7 @@
 
 #include "bridger.h"
 
-int debug_level = 0;
+int debug_level = 1;
 
 const char *format_macaddr(const uint8_t *mac)
 {
